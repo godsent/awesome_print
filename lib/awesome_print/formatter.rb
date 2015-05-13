@@ -4,7 +4,7 @@
 # See LICENSE file or http://www.opensource.org/licenses/mit-license.php
 #------------------------------------------------------------------------------
 autoload :CGI, "cgi"
-require "shellwords"
+#require "shellwords"
 
 module AwesomePrint
   class Formatter
